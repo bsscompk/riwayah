@@ -1,5 +1,5 @@
 {
-  "name": "example-bare",
+  "name": "riwayah",
   "type": "module",
   "scripts": {
     "dev": "vinxi dev",
@@ -9,6 +9,7 @@
   "dependencies": {
     "@solidjs/router": "^0.15.3",
     "@solidjs/start": "^1.1.0",
+    "lucide-solid": "^0.486.0",
     "solid-js": "^1.9.5",
     "vinxi": "^0.5.3"
   },
